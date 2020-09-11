@@ -90,6 +90,7 @@ a:hover {
   vertical-align: top;
   background-color: hsl(179, 62%, 43%);
   border-radius: 0 0 0 5px;
+  height: 260px;
 }
 
 .signup-block>h2 {
@@ -131,6 +132,7 @@ a:hover {
   background-color: hsl(179, 62%, 43%);
   opacity: 0.8;
   border-radius: 0 0 5px 0;
+  height: 260px;
 }
 
 .why-block>h2 {
@@ -167,7 +169,7 @@ a:hover {
 
 .signup-button:hover {
   background: #B9D82D;
-  border: solid #337FED 0px;
+  border: 0;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
