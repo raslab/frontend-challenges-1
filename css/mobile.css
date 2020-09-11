@@ -24,6 +24,7 @@ a {
   font-weight: bold;
   text-decoration: none;
   background-color: hsl(179, 62%, 43%);
+  transition: background-color 0.2s;
 }
 
 a:hover {
